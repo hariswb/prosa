@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/prosa/static/css/main.5f361e03.chunk.css",
+    "main.js": "/prosa/static/js/main.b7503f3a.chunk.js",
+    "main.js.map": "/prosa/static/js/main.b7503f3a.chunk.js.map",
+    "runtime-main.js": "/prosa/static/js/runtime-main.d62a480d.js",
+    "runtime-main.js.map": "/prosa/static/js/runtime-main.d62a480d.js.map",
+    "static/js/2.30955912.chunk.js": "/prosa/static/js/2.30955912.chunk.js",
+    "static/js/2.30955912.chunk.js.map": "/prosa/static/js/2.30955912.chunk.js.map",
+    "index.html": "/prosa/index.html",
+    "precache-manifest.d4e6331a88842f2025dcc77777e72659.js": "/prosa/precache-manifest.d4e6331a88842f2025dcc77777e72659.js",
+    "service-worker.js": "/prosa/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/prosa/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.30955912.chunk.js.LICENSE.txt": "/prosa/static/js/2.30955912.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/prosa/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d62a480d.js",
+    "static/js/2.30955912.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b7503f3a.chunk.js"
+  ]
+}
