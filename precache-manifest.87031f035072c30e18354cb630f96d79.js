@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90a2aedca71f710beb04c73dd2a2f855",
+    "revision": "fe5ad2ae0146d159e284f7f05aad8227",
     "url": "/prosa/index.html"
   },
   {
