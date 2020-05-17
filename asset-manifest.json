@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/prosa/static/css/main.211b84ca.chunk.css",
-    "main.js": "/prosa/static/js/main.fdb550a4.chunk.js",
-    "main.js.map": "/prosa/static/js/main.fdb550a4.chunk.js.map",
+    "main.js": "/prosa/static/js/main.4042284e.chunk.js",
+    "main.js.map": "/prosa/static/js/main.4042284e.chunk.js.map",
     "runtime-main.js": "/prosa/static/js/runtime-main.d62a480d.js",
     "runtime-main.js.map": "/prosa/static/js/runtime-main.d62a480d.js.map",
     "static/js/2.9ab2892a.chunk.js": "/prosa/static/js/2.9ab2892a.chunk.js",
     "static/js/2.9ab2892a.chunk.js.map": "/prosa/static/js/2.9ab2892a.chunk.js.map",
     "index.html": "/prosa/index.html",
-    "precache-manifest.147a85b76121aabf1b8ffc366fae2186.js": "/prosa/precache-manifest.147a85b76121aabf1b8ffc366fae2186.js",
+    "precache-manifest.5a708f8a480933c9baa8e4a7513edead.js": "/prosa/precache-manifest.5a708f8a480933c9baa8e4a7513edead.js",
     "service-worker.js": "/prosa/service-worker.js",
     "static/css/main.211b84ca.chunk.css.map": "/prosa/static/css/main.211b84ca.chunk.css.map",
     "static/js/2.9ab2892a.chunk.js.LICENSE.txt": "/prosa/static/js/2.9ab2892a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d62a480d.js",
     "static/js/2.9ab2892a.chunk.js",
     "static/css/main.211b84ca.chunk.css",
-    "static/js/main.fdb550a4.chunk.js"
+    "static/js/main.4042284e.chunk.js"
   ]
 }
